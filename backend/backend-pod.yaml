@@ -7,6 +7,6 @@ metadata:
 spec:
   containers:
     - name: backend
-      image: r123mahajan/backend:latest
+      image: iamsahil21/backend:latest
       ports:
         - containerPort: 80
